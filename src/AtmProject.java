@@ -10,6 +10,8 @@ public class AtmProject {
         //version4
         System.out.println("Nesibe branchi kodlarını yazdı.");
         //version nsb1
+        System.out.println("Bir kısım kodlar");
+        //nsb2
 
 
 
