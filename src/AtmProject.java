@@ -16,6 +16,7 @@ public class AtmProject {
         //nsb3
         System.out.println("");
         //localde değişiklik yaptım.
+        //remore da değişiklik yaptım.
 
 
 
